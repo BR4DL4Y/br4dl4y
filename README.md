@@ -8,16 +8,16 @@ I'm an 17 year old guy who found himself in love with cibersecurity, so I have b
 ### TryHackMe Stats & Journey
 I'm actively grinding on TryHackMe to sharpen my security skills. Check out my current progress:
 
-- 🏎️ **Current Streak:** 40+ Days
-- 🧩 **Rooms Completed:** 77+
-- 🏆 **Ranking:** Sapphire League (Top 9)
-- 🎯 **Focus:** Offensive Security, Pentesting & Web Exploitation
+-  **Current Streak:** 40+ Days
+-  **Rooms Completed:** 77+
+-  **Ranking:** Sapphire League (Top 9)
+-  **Focus:** Offensive Security, Pentesting & Web Exploitation
 
 ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Level%2010-red?style=for-the-badge&logo=tryhackme)
 
 ---
 
-### 💻 Tech Stack & Tools
+###  Tech Stack & Tools
 As a future Software Engineer and DevSecOps, I'm working with:
 
 - **OS:** Kali Linux, Windows.
@@ -32,6 +32,10 @@ As a future Software Engineer and DevSecOps, I'm working with:
 
 ---
 
-### 📫 Connect with me
+###  Connect with me
 - 🔗 **TryHackMe Profile:** [br4dl4y](https://tryhackme.com/p/br4dl4y)
 - ⚡ **Goal:** To secure the future, one line of code at a time.
+
+- ### Languages
+- **Spanish:** Native 🇩🇴
+- **English:** Upper Intermediate (B2) 🇺🇸
