@@ -1,11 +1,11 @@
 # Hi, I'm Bradley! 👋
 
-### 🚀 Future DevSecOps Engineer | Software Engineering Student @ ITLA
-I'm a passionate cybersecurity enthusiast currently building my foundations in software development and offensive security. I believe in continuous learning and documenting my journey to the top.
+### Future DevSecOps Engineer | Software Engineering Student @ ITLA
+I'm an 17 year old guy who found himself in love with cibersecurity, so I have been grinding all the way to being a DevSecOps and I planned going to ITLA to increase my knowledge, Please stay by.
 
 ---
 
-### 🛡️ TryHackMe Stats & Journey
+### TryHackMe Stats & Journey
 I'm actively grinding on TryHackMe to sharpen my security skills. Check out my current progress:
 
 - 🏎️ **Current Streak:** 40+ Days
@@ -14,17 +14,15 @@ I'm actively grinding on TryHackMe to sharpen my security skills. Check out my c
 - 🎯 **Focus:** Offensive Security, Pentesting & Web Exploitation
 
 ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Level%2010-red?style=for-the-badge&logo=tryhackme)
-![Pentesting](https://img.shields.io/badge/Pentesting-Active-brightgreen?style=for-the-badge&logo=kali-linux)
-![Security Analyst](https://img.shields.io/badge/Security%20Analyst-Learning-blue?style=for-the-badge&logo=google-cloud)
 
 ---
 
 ### 💻 Tech Stack & Tools
 As a future Software Engineer and DevSecOps, I'm working with:
 
-- **OS:** Kali Linux, Parrot OS, Windows.
-- **Tools:** Nmap, Metasploit, Burp Suite, Wireshark, SQLMap.
-- **Dev:** Python, Bash, HTML/CSS (Learning Software Engineering @ ITLA).
+- **OS:** Kali Linux, Windows.
+- **Tools:** Nmap, Metasploit, Wireshark, SQLMap. (even tho I know these tools, I need to keep practicing them 
+- **Dev:** bash (a little, not even much, yet.)
 
 ---
 
