@@ -33,8 +33,8 @@ As a future Software Engineer and DevSecOps, I'm working with:
 ---
 
 ###  Connect with me
-- 🔗 **TryHackMe Profile:** [br4dl4y](https://tryhackme.com/p/br4dl4y)
-- ⚡ **Goal:** To secure the future, one line of code at a time.
+-  **TryHackMe Profile:** [br4dl4y](https://tryhackme.com/p/br4dl4y)
+-  **Goal:** Being the best in what I love.
 
 - ### Languages
 - **Spanish:** Native 🇩🇴
